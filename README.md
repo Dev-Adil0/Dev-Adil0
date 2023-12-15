@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dev-Adil0
 - 👀 I’m interested in Ai Engineering & loving to work with automations. 
 - 🌱 I’m currently learning Golang & Java
-- 💞️ I’m looking to collaborate on Ai projects, ML projects, Python & React projects. 
+- 💞️ I’m looking to collaborate on Ai projects, ML projects and Python programming. 
 - 📫 Reach me at dev.adil009@gmail.com 
 
 <!---
